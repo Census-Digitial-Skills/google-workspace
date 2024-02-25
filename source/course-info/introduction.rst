@@ -1,44 +1,49 @@
-Introduction to Google Workspace for Improved Productivity
-=======================================================
+Course Introduction 
+===================
 
-**Course Overview**
+**Welcome!**
 
-This comprehensive digital skills training course introduces you to the powerful suite of cloud-based productivity tools offered by Google Workspace.  You'll learn to streamline your workflow, enhance collaboration, and boost your professional efficiency by mastering essential applications like Google Docs, Sheets, Slides, Forms, Drive, Calendar, Meet, and Gmail.
+Welcome to the world of Google Workspace! In this comprehensive course, you'll gain the skills to streamline your workflow, collaborate effortlessly, and boost your productivity using Google's cloud-based suite of tools.
 
-**Requirements**
+**Course Purpose**
 
-* Basic computer literacy (file management, web browsing)
-* A functional Google account
+This course aims to:
 
-**Learning Objectives**
+* Teach you the essential components and features of Google Workspace.
+* Provide hands-on experience through practical exercises and projects.
+* Empower you to become a confident and efficient Google Workspace user. 
 
-By the end of this course, you will be able to:
+**Target Audience**
 
-* Efficiently navigate the Google Workspace interface and customize settings.
-* Create, format, and collaborate on professional documents in real-time using Google Docs.
-* Organise, analyse, and visualise data effectively using Google Sheets.
-* Design engaging and informative presentations using Google Slides.
-* Collect and analyse data using customisable online surveys with Google Forms.
-* Conduct productive online meetings and video conferences using Google Meet.
-* Manage schedules, appointments, and deadlines seamlessly with Google Calendar.
-* Store, share, and collaborate on files securely using Google Drive.
-* Compose and manage professional email communication using Gmail.
+This course is designed for:
 
-**Get Started**
+* Professionals seeking to improve their productivity and digital collaboration skills.
+* Students who want to learn valuable tools for academic and future career success.
+* Anyone eager to explore the power of cloud-based productivity.
 
-Let's begin your journey to Google Workspace mastery!
+**Course Structure Overview**
 
-.. admonition:: Aalto University students
+The course is structured into weekly modules, covering:
 
-    The Spatial Data Science for Sustainable Development course is part of the
-    `Master's Programme in Geoinformatics at Aalto University <https://www.aalto.fi/en/study-options/masters-programme-in-geoinformatics>`__
-    under the course code ``GIS-E4040``.
+* **Google Workspace Foundations:** Interface, settings, and core concepts.
+* **Document Mastery with Google Docs**
+* **Data Power with Google Sheets**
+* **Compelling Presentations with Google Slides**
+* **Efficient Data Collection with Google Forms**
+* **...and more!**
 
-.. admonition:: Interactive contents
+**Expectations**
 
-    Each lesson in this course can be turned into an interactive programming session in the browser.
-    You can find buttons for activating the python environment using `Binder <https://mybinder.readthedocs.io/en/latest/>`__ at the top of each programming lesson.
-    Students at Finnish higher education institutions are encouraged to use the `CSC notebooks <https://notebooks.csc.fi/>`__ environment.
+* **Time Commitment:** Expect to dedicate approximately 4-6 hours per week to lessons and exercises.
+* **Prerequisites:** Basic computer literacy and a Google account.
+* **Format:** Lessons combine text, visuals, and hands-on exercises.
+
+**Action Point**
+
+.. admonition:: Let's Get Started!
+
+   Ready to dive in? Review the Course Outline for a detailed breakdown of our journey.
+   * [Link to course-info/course-outline.rst]
 
 
 Contents
@@ -50,3 +55,40 @@ Contents
 
    course-info/introduction
    course-info/course-outline
+   course-info/assessments
+   course-info/final_exam
+   course-info/course-resources
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Module 1: Workspace Foundations
+
+   lessons/Foundations/introduction
+   lessons/Foundations/workspace_interface
+   lessons/Foundations/account_settings
+   lessons/Foundations/creating_files
+   lessons/Foundations/google_drive 
+   lessons/Foundations/workspace_apps
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Chrome Essentials
+
+   lessons/Chrome/introduction
+   lessons/Chrome/setting_up_workspace
+   lessons/Chrome/customizing_workspace
+   lessons/Chrome/profile_settings
+   lessons/Chrome/chrome_apps
+   lessons/Chrome/extensions
+   lessons/Chrome/chrome_flags
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Google Docs
+
+   lessons/docs/introduction
+   lessons/docs/creating_documents 
+   lessons/docs/formatting 
+   lessons/docs/collaboration
+   lessons/docs/comments_revisions 
+   lessons/docs/advanced_features 
