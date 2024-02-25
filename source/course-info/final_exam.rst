@@ -11,7 +11,7 @@ The final exam for this course consists of two parts, offering the opportunity t
 
 * **Part 2: Census Skills Professional Certification**
     * Involves a comprehensive project demonstrating your ability to apply Google Workspace tools in a real-world context.
-    * Upon successful completion, you'll earn the **Census Skills Professional Certification** in addition to the Foundations Certification.
+    * Upon successful completion, you'll earn the **Digital Skills Professional Certification** in addition to the Foundations Certification.
 
 **Exam Structure**
 
